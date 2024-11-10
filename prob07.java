@@ -1,5 +1,6 @@
-/*Write a program that takes an itegers from the user (where n is also provided by the user). 
-Store the numbers in an array and write a method to find and display the second largest number in the array.*/
+/*Write a program that takes an integer input n and prints a pyramid of
+numbers up to n rows, where each row has an increasing count of
+numbers. For example, if n = 4, the output should be:*/
 
 
 import java.util.Scanner;
